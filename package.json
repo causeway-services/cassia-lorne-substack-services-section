@@ -1,0 +1,9 @@
+{
+  "name": "@causeway-services/cassia-lorne-substack-services-section",
+  "description": "Cassia Lorne’s Routine Read editorial material for Substack.",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/cassia-lorne-substack-services-section.git"
+  }
+}
